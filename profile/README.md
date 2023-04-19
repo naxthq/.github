@@ -1,4 +1,4 @@
-# 🚀 Nexvelt
+# 🚀 Nexvelt Technologies
 
 `Nexvelt` is an innovative IT solutions company that takes businesses to the next level. Our cutting-edge technology solutions help companies streamline operations, enhance customer experiences, and drive growth. We leverage the latest tools and techniques to deliver customized solutions that meet the unique needs of our clients."
 
