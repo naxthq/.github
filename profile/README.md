@@ -1,4 +1,4 @@
-# 🚀 Nexvelt Technologies
+![company og (1)](https://user-images.githubusercontent.com/33350692/233223636-5e33f922-b112-4a74-82c2-a9579dd4cca0.png)
 
 `Nexvelt` is an innovative IT solutions company that takes businesses to the next level. Our cutting-edge technology solutions help companies streamline operations, enhance customer experiences, and drive growth. We leverage the latest tools and techniques to deliver customized solutions that meet the unique needs of our clients."
 
