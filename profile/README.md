@@ -5,11 +5,16 @@
 ## ℹ️ About Us
 At Nexvelt, we offer a wide range of IT services, including:
 
-- [x] Software development
-- [x] Web design and development
-- [x] Mobile app development
-- [x] Cloud computing
-- [x] Cybersecurity
+- [x] <b>Custom software development</b>: We can develop bespoke software solutions tailored to your business needs, whether that's a web application, mobile app, or desktop software.
+
+- [x] <b>Cloud computing</b>: We can help you migrate to the cloud, whether that's public, private or hybrid cloud solutions, and provide ongoing management and support.
+
+- [x] <b>Data analytics and business intelligence</b>: We can help you extract insights from your data, and turn them into actionable recommendations to improve your business operations.
+
+- [x] <b>Cybersecurity</b>: We can help you protect your business from cyber threats by implementing industry-standard security practices and providing ongoing monitoring and support.
+
+- [x] <b>Digital transformation</b>: We can help you embrace digital technologies to transform your business processes and improve customer experiences, from e-commerce platforms to automation tools.
+
 - [x] And more
 
 Our solutions are tailored to meet the unique needs and goals of each of our clients, and we work closely with them to ensure their success.
