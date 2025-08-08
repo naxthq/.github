@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.naxt.ai/og.png" alt="NaXT Logo" width="1000" />
+  <img src="https://www.naxt.ai/og.png" alt="NaXT Logo" width="600" />
   
   # Welcome to NaXT, Inc. 👋
   
